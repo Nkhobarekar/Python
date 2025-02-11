@@ -1,0 +1,2 @@
+str="nidhi"
+print(str)
